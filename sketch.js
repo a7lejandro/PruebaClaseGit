@@ -9,7 +9,5 @@ function draw() {
   rect(0,0,100,100);
   
   ellipse(40, 40, 150, 150);
-
-  ellipse(80,80,81,80);
  
 }
